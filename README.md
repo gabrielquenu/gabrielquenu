@@ -1,6 +1,10 @@
-# ✌ Hello!
-## 💼 Currently working at Algar Telecom as IT Analyst.
-## 💻 Developing mainly with JavaScript, React and React Native.
+# ✌ Hi there!
+### 💼 Currently working at Algar Telecom as IT Analyst.
+### 💻 Developing mainly with JavaScript, React and React Native.
+### 📊 Special interest about analytics.
+### ✨ Love a modern and well planned interface.
+
+
 
 <!--
 **GabrielQueirozNunes/GabrielQueirozNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
