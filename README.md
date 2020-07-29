@@ -1,6 +1,6 @@
 # ✌ Hi there!
 ### 💼 Currently working at Algar Telecom as IT Analyst.
-### 💻 Developing mainly with JavaScript, React and React Native.
+### 💻 Develop mainly with JavaScript, React and React Native.
 ### 📊 Special interest about analytics.
 ### ✨ Love a modern and well planned interface.
 
