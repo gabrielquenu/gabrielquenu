@@ -1,6 +1,6 @@
 # ✌ Hi there!
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/]
+[![Linkedin_Badge](http://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielqn/) 
 
 ### 💼 Currently working at Algar Telecom as IT Analyst.
 ### 💻 Develop mainly with JavaScript, React and React Native.
