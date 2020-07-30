@@ -5,9 +5,6 @@
 ### 📊 Special interest about analytics.
 ### ✨ Love a modern and well planned interface.
 
-<br>
-<br>
-
 [![Linkedin_Badge](http://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielqn/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielquenu@gmail.com)
 
