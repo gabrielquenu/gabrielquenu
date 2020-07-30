@@ -1,11 +1,12 @@
 # ✌ Hi there!
 
-[![Linkedin_Badge](http://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielqn/) 
-
 ### 💼 Currently working at Algar Telecom as IT Analyst.
 ### 💻 Develop mainly with JavaScript, React and React Native.
 ### 📊 Special interest about analytics.
 ### ✨ Love a modern and well planned interface.
+
+[![Linkedin_Badge](http://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielqn/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielquenu@gmail.com)
 
 
 
