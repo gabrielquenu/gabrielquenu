@@ -6,7 +6,7 @@
 ### ✨ Love a modern and well planned interface.
 
 [![Linkedin_Badge](http://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielqn/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielquenu@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielquenu@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielquenu@gmail.com)](mailto:gabrielquenu@gmail.com)
 
 
 <!--
