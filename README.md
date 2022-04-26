@@ -3,7 +3,6 @@
 ### 💼 Currently working at Algar Telecom as IT Analyst.
 ### 💻 Develop mainly with Python and PL/SQL.
 ### 📊 Special interest about analytics.
-### ✨ Love a modern and well planned interface.
 
 [![Linkedin_Badge](http://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielqn/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielquenu@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielquenu@gmail.com)](mailto:gabrielquenu@gmail.com)
